@@ -1,0 +1,55 @@
+{
+  "poster_prompt": {
+    "subject": {
+      "description": "4–6 professionally dressed Indian employees, both men and women, mid-20s to late 30s, engaged in a collaborative corporate training discussion",
+      "position": "seated around a sleek modern conference table, with a confident Indian mentor/team leader slightly apart but clearly guiding the team",
+      "appearance": {
+        "attire": "formal corporate wear such as shirts, blouses, blazers, and trousers",
+        "actions": [
+          "attentive listening",
+          "taking notes",
+          "interacting with laptops or digital tablets showing online learning content"
+        ],
+        "expressions": "focused, collaborative, and professional",
+        "vibe": "corporate training and teamwork"
+      }
+    },
+    "background": {
+      "setting": "modern Indian corporate meeting room with transparent glass walls",
+      "elements": [
+        "natural cityscape or greenery visible outside the glass walls",
+        "sleek conference furniture",
+        "minimal corporate décor"
+      ],
+      "style": "photorealistic and professional"
+    },
+    "gradient_effect": {
+      "description": "soft dark blue gradient at the top 20% of the image",
+      "transition": "fades downward into the meeting room scene",
+      "purpose": "clean space for manual text overlay"
+    },
+    "composition": {
+      "layout": "wide-angle vertical 4:5 perspective showing the full room context",
+      "visual_balance": "mentor slightly apart, team seated in collaborative arrangement",
+      "style_attributes": [
+        "clean and realistic",
+        "professional Indian corporate aesthetic",
+        "modern color palette with dark blue and soft neutrals",
+        "no holographic or close-up elements"
+      ]
+    },
+    "enhancements": {
+      "bottom_visuals": [
+        "digital learning dashboards",
+        "training icons",
+        "subtle digital screen projection to reinforce online learning theme"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "orientation": "vertical",
+      "platform": "Posters, Corporate Presentations, Online Training Banners",
+      "lighting": "soft natural lighting highlighting a professional atmosphere"
+    }
+  }
+}

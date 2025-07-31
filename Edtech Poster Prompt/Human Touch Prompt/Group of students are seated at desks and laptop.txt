@@ -1,0 +1,53 @@
+{
+  "poster_prompt": {
+    "subject": {
+      "description": "4–5 Indian professionals in an informal corporate training session",
+      "position": "gathered around an oval wooden table in a modern co-working lounge, fully visible from a slightly top-down (bird's eye) perspective",
+      "appearance": {
+        "attire": "smart casual corporate wear such as shirts, blouses, and semi-formal trousers",
+        "actions": [
+          "collaborating in small groups",
+          "working on tablets and laptops",
+          "discussing and sharing ideas"
+        ],
+        "expressions": "engaged, focused, and collaborative",
+        "vibe": "informal yet professional learning environment"
+      },
+      "mentor": {
+        "description": "Indian mentor or team lead",
+        "position": "standing or seated slightly at the side of the oval table",
+        "action": "guiding the team with a supportive presence"
+      }
+    },
+    "background": {
+      "setting": "modern co-working lounge with wooden tables and soft-cushioned chairs",
+      "elements": [
+        "transparent glass panels",
+        "garden or landscaped greenery visible outside",
+        "minimalist lounge décor"
+      ],
+      "style": "photorealistic with warm, professional aesthetics"
+    },
+    "gradient_effect": {
+      "description": "dark blue gradient filling the top 20% of the image",
+      "transition": "gradually fades downward into the co-working lounge scene",
+      "purpose": "provides clean space for text overlay"
+    },
+    "composition": {
+      "layout": "slightly top-down (bird's eye) perspective showing the full team and table setup",
+      "visual_balance": "mentor positioned at the side, team evenly distributed around the oval table",
+      "style_attributes": [
+        "warm professional lighting",
+        "Indian corporate workplace aesthetics",
+        "modern and realistic",
+        "no clutter"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "orientation": "vertical",
+      "platform": "Corporate Learning Posters, Internal Training Materials, Digital Banners",
+      "lighting": "warm but professional, natural highlights from the glass panels"
+    }
+  }
+}

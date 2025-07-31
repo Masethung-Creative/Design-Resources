@@ -1,0 +1,48 @@
+{
+  "poster_prompt": {
+    "subject": {
+      "description": "A group of five confident Indian college students (3 males and 2 females) celebrating placement success",
+      "position": "standing on the right side of the frame, fully visible and smiling proudly",
+      "appearance": {
+        "attire": "smart casuals suitable for campus placements",
+        "actions": [
+          "one student giving a thumbs up",
+          "one holding a 'Placement Offer' letter",
+          "others holding folders, resumes, and laptops"
+        ],
+        "expressions": "confident, happy, and energetic",
+        "vibe": "proud college placement success"
+      }
+    },
+    "background": {
+      "setting": "modern Indian college campus building",
+      "elements": [
+        "subtle 'Placement Drive 2025' banner near the entrance",
+        "bright daylight with a clear sky",
+        "clean campus architecture"
+      ],
+      "style": "hyper-realistic with a professional, energetic atmosphere"
+    },
+    "gradient_effect": {
+      "description": "soft focus blur on the left side of the image",
+      "transition": "blurred left for manual text placement, sharp focus on students to the right",
+      "purpose": "provides clean space for optional text overlay"
+    },
+    "composition": {
+      "layout": "students positioned on the right side, blurred left side for content",
+      "visual_balance": "sharp student focus balanced with subtle campus background",
+      "style_attributes": [
+        "natural daylight",
+        "modern and realistic",
+        "vivid yet professional color tones",
+        "no logos or added text"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "orientation": "vertical",
+      "platform": "Placement Drive Posters, College Social Media, Career Campaigns",
+      "lighting": "bright daylight with soft, natural highlights"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "poster_prompt": {
+    "subject": {
+      "description": "Confident young Indian woman in early twenties",
+      "position": "standing in the right-side corner of the image, fully visible",
+      "appearance": {
+        "hair": "long, straight black hair",
+        "expression": "smiling warmly",
+        "attire": {
+          "top": "fitted red short-sleeved top",
+          "bottom": "light blue jeans"
+        },
+        "pose": "holding sleek silver laptop against chest",
+        "demeanor": "confident and professional"
+      }
+    },
+    "background": {
+      "setting": "modern corporate office",
+      "elements": [
+        "dark modern office with subtle lighting",
+        "glass panels",
+        "blurred workstations"
+      ],
+      "style": "realistic and minimal"
+    },
+    "gradient_effect": {
+      "description": "dark blue gradient from left to right",
+      "transition": "fully opaque on the left, smoothly fading into the office background toward the right side",
+      "purpose": "creates contrast for white text overlay"
+    },
+    "composition": {
+      "layout": "poster design",
+      "visual_balance": "subject on the right-side corner, gradient on the left",
+      "style_attributes": [
+        "clean",
+        "modern",
+        "no frame",
+        "no clutter",
+        "no visual noise"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "platform": "Social Media or Ads",
+      "lighting": "subtle and professional office lighting"
+    }
+  }
+}

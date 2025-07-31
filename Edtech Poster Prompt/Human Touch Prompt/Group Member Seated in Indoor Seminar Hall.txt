@@ -1,0 +1,60 @@
+{
+  "poster_prompt": {
+    "subject": {
+      "description": "A group of 5–6 diverse Indian professionals, mid-20s to 40s, attending a corporate training session",
+      "position": "seated in rows with laptops or notepads, facing the trainer standing near a digital whiteboard",
+      "appearance": {
+        "attire": "professional corporate clothing including shirts, blouses, blazers, and trousers",
+        "actions": [
+          "taking notes",
+          "listening attentively",
+          "engaging with laptops or digital content"
+        ],
+        "expressions": "focused and professional",
+        "vibe": "learning and collaborative corporate training"
+      },
+      "trainer": {
+        "description": "Indian mentor or trainer",
+        "position": "standing near the digital whiteboard at the front",
+        "action": "guiding participants and presenting online learning content"
+      }
+    },
+    "background": {
+      "setting": "modern seminar hall",
+      "elements": [
+        "transparent side windows with city buildings visible",
+        "digital whiteboard displaying online learning dashboards",
+        "sleek corporate furniture"
+      ],
+      "style": "photorealistic and professional"
+    },
+    "gradient_effect": {
+      "description": "soft dark blue gradient at the top 20% of the image",
+      "transition": "fades downward into the seminar hall scene",
+      "purpose": "provides clean space for text overlay"
+    },
+    "composition": {
+      "layout": "side-angle (diagonal) perspective capturing both participants and the trainer",
+      "visual_balance": "trainer on one side, participants in rows leading into the frame",
+      "style_attributes": [
+        "modern",
+        "realistic",
+        "professional Indian corporate aesthetics",
+        "clean and uncluttered"
+      ]
+    },
+    "enhancements": {
+      "bottom_visuals": [
+        "subtle tech elements",
+        "digital learning icons",
+        "dashboard outlines softly overlaid near the bottom"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "orientation": "vertical",
+      "platform": "Corporate Training Posters, Social Media Banners, Learning Portals",
+      "lighting": "natural and balanced daylight through windows"
+    }
+  }
+}

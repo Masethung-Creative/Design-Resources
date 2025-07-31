@@ -1,0 +1,54 @@
+{
+  "poster_prompt": {
+    "subject": {
+      "description": "5–6 Indian college-age students engaged in digital learning in a modern classroom setting",
+      "position": "seated at individual desks in rows, facing forward or toward the instructor",
+      "appearance": {
+        "attire": "neat casual student clothing such as t-shirts, shirts, and jeans",
+        "actions": [
+          "working on open laptops or tablets",
+          "engaging with learning material",
+          "interacting with the instructor"
+        ],
+        "expressions": "attentive, natural, and focused",
+        "vibe": "academic, digital learning environment"
+      },
+      "instructor": {
+        "description": "Indian classroom instructor",
+        "position": "standing at the front or side of the room",
+        "action": "pointing to a non-digital whiteboard or assisting students at their desks"
+      }
+    },
+    "background": {
+      "setting": "modern Indian classroom",
+      "elements": [
+        "open windows allowing natural daylight",
+        "non-digital whiteboard",
+        "minimal and clean classroom furniture"
+      ],
+      "style": "ultra-realistic, academic, and organized"
+    },
+    "gradient_effect": {
+      "description": "soft dark blue gradient filling the upper 35% of the image",
+      "transition": "smoothly fades downward into the classroom scene",
+      "purpose": "reserved space for text overlay"
+    },
+    "composition": {
+      "layout": "side-angle perspective showing student–instructor interaction",
+      "visual_balance": "students in rows, instructor at the front or side",
+      "style_attributes": [
+        "soft, professional color palette",
+        "balanced natural lighting",
+        "Indian educational setting aesthetics",
+        "no artificial effects",
+        "no clutter or holographic visuals"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "orientation": "vertical",
+      "platform": "Educational Posters, Course Banners, College Digital Boards",
+      "lighting": "natural daylight, soft and even"
+    }
+  }
+}

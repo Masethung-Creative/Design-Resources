@@ -1,0 +1,55 @@
+{
+  "poster_prompt": {
+    "subject": {
+      "description": "4–5 Indian college students sitting in a circle on a campus lawn, engaged in a digital learning session",
+      "position": "students seated on the grass in a circular arrangement, fully visible from a slightly elevated over-the-shoulder perspective",
+      "appearance": {
+        "attire": "casual, neat college wear such as t-shirts, shirts, and jeans",
+        "actions": [
+          "discussing course content",
+          "working on laptops and tablets",
+          "collaborating with peers"
+        ],
+        "expressions": "engaged, natural, and collaborative",
+        "vibe": "relaxed yet focused outdoor academic environment"
+      },
+      "instructor": {
+        "description": "Indian instructor or mentor",
+        "position": "sitting among the students in the circle",
+        "action": "actively guiding and fostering discussion"
+      }
+    },
+    "background": {
+      "setting": "lush green college campus lawn",
+      "elements": [
+        "daylight filtering through tall trees",
+        "soft shadows for warmth and depth",
+        "subtle academic building in the distance"
+      ],
+      "style": "photorealistic, calm, and natural"
+    },
+    "gradient_effect": {
+      "description": "dark blue gradient covering the top 35% of the image",
+      "transition": "smoothly fades downward into the campus scene",
+      "purpose": "clean space for optional text overlay"
+    },
+    "composition": {
+      "layout": "slightly elevated over-the-shoulder perspective capturing the entire circle and surroundings",
+      "visual_balance": "students and instructor forming a cohesive learning circle, with trees and building grounding the setting",
+      "style_attributes": [
+        "natural lighting with daylight filtering through leaves",
+        "soft, warm tones",
+        "Indian college campus aesthetic",
+        "no artificial effects",
+        "no facial close-ups",
+        "purely human-driven educational energy"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "orientation": "vertical",
+      "platform": "Educational Posters, Campus Promotions, Learning Materials",
+      "lighting": "natural daylight with warm highlights and soft shadows"
+    }
+  }
+}

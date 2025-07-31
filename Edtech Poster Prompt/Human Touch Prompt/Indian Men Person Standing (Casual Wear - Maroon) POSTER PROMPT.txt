@@ -1,0 +1,55 @@
+{
+  "poster_prompt": {
+    "subject": {
+      "description": "Confident young Indian man in early twenties",
+      "position": "standing in the right corner of the frame, fully visible",
+      "appearance": {
+        "hair": "neatly styled black hair",
+        "facial_hair": "well-groomed beard",
+        "expression": "smiling warmly",
+        "attire": {
+          "top": "fitted maroon short-sleeved shirt",
+          "bottom": "light blue jeans"
+        },
+        "pose": "holding sleek silver laptop against chest",
+        "demeanor": "confident and professional"
+      }
+    },
+    "background": {
+      "setting": "modern corporate office",
+      "elements": [
+        "dark modern office with subtle lighting",
+        "glass panels",
+        "blurred workstations"
+      ],
+      "style": "realistic and minimal"
+    },
+    "gradient_effect": {
+      "type": "dark blue gradient",
+      "direction": "left to right",
+      "transition": "fully opaque on left, smoothly fades into office background toward right corner"
+    },
+    "composition": {
+      "layout": "poster design",
+      "style_attributes": [
+        "clean",
+        "modern",
+        "no frame",
+        "no clutter",
+        "no visual noise"
+      ],
+      "visual_balance": "subject in the right corner, gradient on left"
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "platform": "Facebook Ads",
+      "color_palette": {
+        "primary": "dark blue",
+        "secondary": "maroon",
+        "accent": "silver",
+        "background": "dark office tones"
+      },
+      "lighting": "subtle, professional office lighting"
+    }
+  }
+}
