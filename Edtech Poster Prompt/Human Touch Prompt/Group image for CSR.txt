@@ -1,0 +1,57 @@
+{
+  "situation": "A creative visualization project focused on representing the diversity, potential, and professional landscape of young Indian talent, emphasizing career empowerment and national potential.",
+  "task": "Generate a photorealistic digital image that captures a group of diverse young Indian professionals with authentic Indian face cuts and natural features, positioned in the exact center of the frame, representing multiple career sectors and professional paths.",
+  "objective": "Create a visually compelling and inspirational representation of India's youth workforce that communicates optimism, diversity, professional potential, and national progress.",
+  "knowledge": {
+    "composition": {
+      "group_size": "6-8 young adults",
+      "positioning": "All individuals must be centered in the frame, standing close together in a balanced formation.",
+      "diversity": {
+        "indian_ethnic_backgrounds": "minimum 60%",
+        "gender_balance": "50% male, 50% female",
+        "regional_representation": "1-2 individuals from different regions of India with distinct Indian face cuts"
+      },
+      "age_range": "22-35 years old",
+      "attire": [
+        "Business casual suits",
+        "Construction/technical uniforms",
+        "Casual professional workwear"
+      ]
+    },
+    "background": {
+      "elements": [
+        "Stylized map of India placed symmetrically behind the group",
+        "Semi-transparent growth charts aligned neatly",
+        "Documents and mechanical cogs arranged in proper balance"
+      ],
+      "color_palette": "Muted light-blue tones with soft glow effect",
+      "alignment": "All background elements should be evenly aligned and centered relative to the group"
+    },
+    "technical": {
+      "alignment": "Strictly centered composition for both people and background",
+      "skin_tones": "Natural, authentic Indian tones",
+      "facial_features": "Clear, photorealistic Indian face cuts with regional diversity",
+      "clothing_textures": "Highly detailed, photorealistic",
+      "aesthetic": "Clean, modern, natural look",
+      "rendering_style": "Photorealistic, ultra-detailed, natural lighting"
+    },
+    "emotional_tone": [
+      "Confident",
+      "Optimistic",
+      "Collaborative"
+    ]
+  },
+  "negative_prompt": [
+    "Cartoon-style rendering",
+    "Artificial or overly staged look",
+    "Glitch effects",
+    "Unrealistic or distorted representations",
+    "Western or non-Indian facial structures",
+    "Off-center or misaligned group placement",
+    "Misaligned or randomly placed background elements",
+    "Unknown or unidentifiable elements",
+    "Any visual artifacts that compromise the professional aesthetic",
+    "Stereotypical or tokenistic representations of diversity",
+    "Culturally insensitive or inappropriate depictions"
+  ]
+}
