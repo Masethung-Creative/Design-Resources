@@ -1,0 +1,44 @@
+{
+  "poster_prompt": {
+    "subject": {
+      "description": "A group of confident young Indian college students, both male and female, in their early twenties, representing STEM fields",
+      "position": "standing together at the exact center of the frame, fully visible, aligned in a natural group formation",
+      "appearance": {
+        "gender_mix": "male and female students",
+        "attire": "casual yet neat clothing such as t-shirts, jeans, sneakers with a tech-oriented vibe",
+        "expressions": "smiling, curious, and confident",
+        "props": [
+          "laptops",
+          "tablets",
+          "engineering blueprints",
+          "robotics kit"
+        ],
+        "vibe": "academic, innovative, and collaborative"
+      }
+    },
+    "background": {
+      "setting": "modern college campus with a STEM focus",
+      "elements": [
+        "sleek campus buildings",
+        "glass panels",
+        "students in the distance working in labs"
+      ],
+      "style": "cinematic with a slight blur to keep focus on the students"
+    },
+    "composition": {
+      "layout": "students perfectly centered as the main subject",
+      "visual_balance": "clear focus on the group with a clean and modern surrounding",
+      "style_attributes": [
+        "no text elements",
+        "no gradient overlays",
+        "sharp focus on students",
+        "modern and cinematic mood"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "platform": "Poster, Social Media Ads",
+      "lighting": "realistic daylight with subtle cinematic tones"
+    }
+  }
+}
