@@ -1,0 +1,10 @@
+{
+  "prompt": "photorealistic vertical image, 4:5 aspect ratio, modern Indian corporate meeting room, transparent glass walls with greenery or cityscape outside, 4-6 Indian employees (men and women, mid-20s to late 30s) seated around a sleek white conference table, engaged in collaborative corporate training, confident Indian mentor or team leader guiding the discussion, employees attentive, some taking notes, others using laptops or tablets with online learning dashboards, wide-angle perspective, bright natural soft lighting, professional clean atmosphere, white gradient theme (top and bottom), top 20% clean with white gradient for text overlay, bottom area in white gradient with subtle digital learning icons, dashboards, or screen projection, modern professional aesthetics, realistic Indian faces, no cartoon, no holographic, no close-ups",
+  "negative_prompt": "blurry, low quality, cartoon, illustration, hologram, glitch, close-up faces, distorted hands, text overlay, watermark, overly polished 3D render",
+  "width": 960,
+  "height": 1200,
+  "steps": 30,
+  "cfg_scale": 7,
+  "sampler": "Euler a",
+  "style": "photorealistic"
+}
