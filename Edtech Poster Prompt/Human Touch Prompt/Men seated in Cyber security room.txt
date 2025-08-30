@@ -1,0 +1,49 @@
+{
+  "poster_prompt": {
+    "subject": {
+      "description": "Confident young Indian man in early twenties",
+      "position": "seated at the far right corner of the frame, mostly on the right side, fully visible",
+      "appearance": {
+        "hair": "neatly styled black hair",
+        "facial_hair": "well-groomed beard",
+        "expression": "smiling with focus",
+        "attire": {
+          "top": "fitted navy blue formal shirt",
+          "bottom": "beige trousers",
+          "accessories": [
+            "black belt",
+            "classic wristwatch"
+          ]
+        },
+        "pose": "upright posture, seated at a desk, facing slightly toward the center from the right edge",
+        "action": "working on a sleek silver laptop placed on the desk",
+        "demeanor": "confident and professional"
+      }
+    },
+    "background": {
+      "setting": "cybersecurity operations room",
+      "elements": [
+        "large wall-mounted digital screens showing cyber threat maps and data dashboards",
+        "rows of monitors with security logs and analytics",
+        "dim ambient lighting with blue accents",
+        "glass partitions",
+        "blurred workstations in the background"
+      ],
+      "style": "realistic corporate high-tech environment"
+    },
+    "gradient_effect": {
+      "description": "dark blue gradient from left to right",
+      "transition": "fully opaque on the left, gradually fading into the cybersecurity room background toward the right corner",
+      "purpose": "creates a smooth merge behind the subject and a clear space for white text overlay"
+    },
+    "composition": {
+      "layout": "poster design",
+      "visual_balance": "subject in the right-side corner, gradient on the left",
+      "style_attributes": [
+        "clean",
+        "modern",
+        "no borders",
+        "no clutter",
+        "corporate cybersecurity theme"
+      ]
+    },
