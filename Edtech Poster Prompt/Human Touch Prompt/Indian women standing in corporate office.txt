@@ -1,0 +1,132 @@
+<image_description>
+  <background>
+    <color>White (#FFFFFF)</color>
+    <texture>Smooth, clean, and minimalistic with a very light, semi-transparent overlay of an IT corporate office environment</texture>
+    <details>
+      <element>Softly blurred background showing modern glass-walled offices</element>
+      <element>Faint outlines of desks, computers, and employees working in the distance</element>
+      <element>Subtle lighting from ceiling fixtures and natural light from large windows</element>
+      <element>Minimalist design with neutral tones — whites, grays, and soft blues</element>
+    </details>
+    <opacity>10-15% transparency for the background scene to remain subtle and not distract</opacity>
+    <aspect_ratio>3:4</aspect_ratio>
+    <orientation>Portrait</orientation>
+  </background>
+
+  <elements>
+    <logo>
+      <position>Top-left corner</position>
+      <design>
+        <shape>Square with a modern cross-like pattern</shape>
+        <text>COMPANY LOGO</text>
+        <style>Dark blue (#0F2027), minimalist, clean sans-serif font</style>
+      </design>
+    </logo>
+
+    <heading>
+      <text>PLAN YOUR BUSINESS</text>
+      <font_size>Large</font_size>
+      <color>#0F2027 (Dark Blue)</color>
+      <style>Bold, uppercase, sans-serif, slightly italicized for emphasis</style>
+      <position>Left side, above subheading</position>
+    </heading>
+
+    <subheading>
+      <text>LOREM IPSUM DOLOR SIT AMET CONSECT</text>
+      <font_size>Medium</font_size>
+      <color>#303C48 (Charcoal Gray)</color>
+      <style>Uppercase, sans-serif</style>
+      <position>Below the heading</position>
+    </subheading>
+
+    <paragraph>
+      <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit do eiusmod tempor</text>
+      <font_size>Small</font_size>
+      <color>#6B7280 (Grayish Blue)</color>
+      <style>Regular, sans-serif</style>
+      <position>Bottom-left area, above the website link</position>
+    </paragraph>
+
+    <website>
+      <text>www.yoursite.com</text>
+      <font_size>Small</font_size>
+      <color>#4A90E2 (Bright Blue)</color>
+      <style>Underlined, sans-serif, clickable appearance</style>
+      <position>Below the paragraph, near bottom-left</position>
+    </website>
+
+    <person>
+      <gender>Female</gender>
+      <ethnicity>Indian</ethnicity>
+      <age>Mid-20s to early 30s</age>
+      <appearance>
+        <skin_tone>Warm olive or medium brown</skin_tone>
+        <hair>Long, sleek black hair styled in soft waves or a low professional bun</hair>
+        <eyes>Dark brown, bright and confident</eyes>
+        <makeup>Natural, professional makeup with defined brows and soft pink nude lips</makeup>
+        <clothing>
+          <suit>
+            <jacket>Light gray or dove blue tailored blazer with clean lines and subtle sheen</jacket>
+            <top>Crushed white silk or satin blouse with a modest neckline</top>
+            <bottom>Fitted pencil skirt or tailored trousers in the same color as the blazer</bottom>
+            <color_matching>Outfit tone harmonizes with the white and soft gray corporate background for a seamless, elegant look</color_matching>
+          </suit>
+          <accessories>
+            <jewelry>Minimal gold or silver stud earrings and a delicate pendant necklace</jewelry>
+            <watch>Sleek metallic wristwatch</watch>
+          </accessories>
+        </clothing>
+        <expression>Warm, confident smile; poised and professional demeanor</expression>
+      </appearance>
+      <pose>
+        <action>Standing confidently, holding a modern silver laptop with both hands at waist level</action>
+        <hand_position>Both hands securely cradling the bottom and sides of the laptop</hand_position>
+        <laptop_angle>Screen gently tilted upward, facing slightly toward the viewer</laptop_angle>
+        <stance>Facing slightly toward the camera, exuding approachability and professionalism</stance>
+      </pose>
+      <position>Right side of the image, occupying approximately 55–60% of the width</position>
+    </person>
+
+    <object>
+      <type>Laptop</type>
+      <color>Silver or space gray (premium, minimalist design)</color>
+      <brand>Generic high-end aesthetic — no visible logo to avoid branding conflicts</brand>
+      <screen>
+        <content>Faint display of a business dashboard — pie charts, calendar, and task list in soft blue and gray tones</content>
+        <visibility>Low brightness, subtle glow to maintain focus on the subject</visibility>
+        <state>Powered on with a soft interface glow</state>
+      </screen>
+      <position>Held securely in both hands, centered in front of the person at waist level</position>
+      <interaction>Clearly shown as being actively held — not floating or detached</interaction>
+    </object>
+  </elements>
+
+  <overall_style>
+    <theme>Professional, modern, and culturally inclusive business imagery featuring an Indian woman in a corporate setting</theme>
+    <color_scheme>
+      <primary>White (#FFFFFF), light gray (#E5E7EB), and dove blue (#D6E1F0)</primary>
+      <accent>Bright blue (#4A90E2) for call-to-action elements</accent>
+      <neutral>Charcoal gray (#303C48) and soft navy (#0F2027) for text and contrast</neutral>
+    </color_scheme>
+    <mood>Confident, organized, innovative, and polished</mood>
+    <layout>
+      <structure>Asymmetrical layout — text on the left, professional figure on the right</structure>
+      <balance>Visual weight balanced with clear focus on the woman and her role</balance>
+      <aspect_ratio>3:4 (portrait orientation, ideal for Instagram stories, mobile ads, LinkedIn banners, and digital profiles)</aspect_ratio>
+      <safe_zones>
+        <text_area>Left 40%, padded from edges</text_area>
+        <subject_area>Right 60%, centered vertically</subject_area>
+      </safe_zones>
+    </layout>
+    <effects>
+      <lighting>Soft, diffused natural light with gentle highlights on the suit and laptop for a premium feel</lighting>
+      <focus>Sharp focus on the woman’s face, hands, and laptop screen; background softly blurred</focus>
+      <shadow>Delicate drop shadow under the person and laptop to create depth</shadow>
+      <overlay>
+        <type>Faint IT corporate office</type>
+        <visibility>10–15% opacity — suggests environment without distracting</visibility>
+        <content>Modern desks, glass partitions, ambient monitors, and soft lighting</content>
+      </overlay>
+    </effects>
+  </overall_style>
+</image_description>
