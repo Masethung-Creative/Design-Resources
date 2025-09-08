@@ -1,0 +1,41 @@
+{
+  "poster_prompt": {
+    "subject": {
+      "description": "A confident Indian college woman standing proudly in the right corner",
+      "position": "standing on the right side of the frame, fully visible and smiling confidently",
+      "appearance": {
+        "attire": "smart casuals suitable for engineering students",
+        "actions": [
+          "holding books or a laptop in her hands"
+        ],
+        "expressions": "confident, happy, and focused",
+        "vibe": "professional and academic"
+      }
+    },
+    "background": {
+      "setting": "simple minimal background",
+      "elements": [],
+      "style": "clean, professional, and modern"
+    },
+    "gradient_effect": {
+      "description": "soft blur on the left side of the image",
+      "transition": "blurred left for manual text placement, sharp focus on woman to the right",
+      "purpose": "provides clean space for optional text overlay"
+    },
+    "composition": {
+      "layout": "woman positioned on the right side, blurred left side for content",
+      "visual_balance": "sharp subject focus against a plain minimal background",
+      "style_attributes": [
+        "minimalist design",
+        "professional and realistic",
+        "no logos or added text"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "orientation": "vertical",
+      "platform": "Internship Posters, College Social Media, AI Program Campaigns",
+      "lighting": "soft natural highlights on the subject with plain background"
+    }
+  }
+}
