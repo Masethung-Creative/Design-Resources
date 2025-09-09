@@ -1,0 +1,50 @@
+{
+  "poster_prompt": {
+    "subject": {
+      "description": "A group of confident young Indian college students, both male and female, in their early twenties",
+      "position": "standing together at the exact center of the frame, fully visible and aligned",
+      "appearance": {
+        "gender_mix": "male and female students",
+        "attire": "casual yet neat student attire such as t-shirts, jeans, and sneakers",
+        "expressions": "smiling and approachable",
+        "props": [
+          "laptops",
+          "notebooks",
+          "backpacks"
+        ],
+        "vibe": "energetic, academic, and friendly"
+      }
+    },
+    "background": {
+      "setting": "modern college campus",
+      "elements": [
+        "dark-toned realistic architecture",
+        "subtle lighting",
+        "glass panels",
+        "blurred students in the distance"
+      ],
+      "style": "minimalistic and contemporary"
+    },
+    "gradient_effect": {
+      "description": "professional dark blue gradient applied evenly at the bottom",
+      "transition": "fully opaque at the bottom, fading smoothly upward toward the center",
+      "purpose": "clean base space for white text overlay without covering students"
+    },
+    "composition": {
+      "layout": "contemporary poster design",
+      "visual_balance": "students perfectly centered, gradient aligned at bottom for text space",
+      "style_attributes": [
+        "sharp focus on students",
+        "modern",
+        "clean",
+        "no borders",
+        "no visual clutter"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "platform": "Posters, Social Media Ads",
+      "lighting": "realistic and subtle campus lighting"
+    }
+  }
+}
